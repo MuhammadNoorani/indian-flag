@@ -2,6 +2,8 @@
 
 Welcome to the **Indian Flag** repository! This project showcases a simple design of the Indian flag using HTML and CSS. It provides a basic visual representation of the Indian national flag, including the tricolor design and the Ashoka Chakra.
 
+Checkout the live link : [Live demo](https://indian-flag-clone.netlify.app/)
+
 Please note that this project is intended to serve as a reference or starting point for understanding how to create the Indian flag using web technologies.
 
 Tech Stack:
