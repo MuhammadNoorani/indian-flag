@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+ }
+
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background:white;
+}
+
+.Flag{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+}
+.Orange{
+    height: 70px;
+    background-color: orange;
+}
+.White{
+    height: 70px;
+    background-color: white;
+}
+.Green{
+    height: 70px;
+    background-color: green;
+}
+.Chakra{
+    position: relative;
+    top: -137px;
+    right: -120px;
+    width: 100%;
+}
